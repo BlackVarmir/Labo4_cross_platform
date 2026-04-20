@@ -1,0 +1,9 @@
+<resources>
+    <string name="main">Main</string>
+    <string name="buttons">Buttons</string>
+    <string name="checkboxes">Checkboxes</string>
+    <string name="back">Back</string>
+    <string name="current_time">Current time: %1$s</string>
+    <string name="current_date">Current date: %1$s</string>
+    <string name="current_timezone">Current time zone: %1$s</string>
+</resources>
