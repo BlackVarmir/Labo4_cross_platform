@@ -1,4 +1,4 @@
-rootProject.name = "Labo2_cross_platform"
+rootProject.name = "Labo3_cross_platform"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
